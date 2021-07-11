@@ -1,10 +1,23 @@
-# demo_app
+# Crypto currency price tracker app
 
-A new Flutter project.
+App to show live crypto currency tracker app developed in Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## How to run
+
+ - Setup flutter dev environment
+ - checkout source code
+ - Generate APK in android studio
+   Toolbar -> Build -> Flutter -> Build APK
+
+## About Crypto 
+
+A cryptocurrency (or “crypto”) is a digital currency that can be used to buy goods and services, 
+but uses an online ledger with strong cryptography to secure online transactions. 
+Much of the interest in these unregulated currencies is to trade for profit, 
+with speculators at times driving prices skyward.
+
+## About Flutter
 
 A few resources to get you started if this is your first Flutter project:
 
